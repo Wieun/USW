@@ -1,0 +1,8 @@
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\bin\Release\numberListManager.exe.config
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\bin\Release\numberListManager.exe
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\bin\Release\numberListManager.pdb
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\obj\Release\numberListManager.Form1.resources
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\obj\Release\numberListManager.Properties.Resources.resources
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\obj\Release\numberListManager.csproj.GenerateResource.Cache
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\obj\Release\numberListManager.exe
+C:\Users\ericc\Documents\Visual Studio 2015\Projects\numberListManager\numberListManager\obj\Release\numberListManager.pdb
